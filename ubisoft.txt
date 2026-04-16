@@ -1,1 +1,2 @@
 static-dm.ubisoft.com
+patches.ubi.com
