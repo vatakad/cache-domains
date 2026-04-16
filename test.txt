@@ -6,3 +6,4 @@ trigger.lancache.net
 trigger.uklans.net
 cdn.steamcommunity.com
 cdn.steampowered.com
+gamecenter.vkplay.cdn-vk.net
