@@ -1,1 +1,3 @@
 lancache.steamcontent.com
+repo.steampowered.com
+cs.steampowered.com
