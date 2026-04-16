@@ -4,3 +4,5 @@ litmus.lancache.net
 litmus.uklans.net
 trigger.lancache.net
 trigger.uklans.net
+cdn.steamcommunity.com
+cdn.steampowered.com
